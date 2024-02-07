@@ -1,3 +1,3 @@
-# BUSA 342
-Course website.
+# .github
+Public repo
 
