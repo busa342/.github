@@ -11,6 +11,10 @@ three species of iris:
 ![image2](https://github.com/busa342/.github/blob/main/profile/iris_petal-sepal.png) <br />
 *Source: https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png*
 
+Thank you for visiting!
+
+Have a GREAT day! 🌈
+
 <!--
 
 
