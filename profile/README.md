@@ -1,6 +1,13 @@
 # BUSA 342 
 Hi there 👋
+
+![image](iris_petal-sepal.png)
+
+Source: https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png
+
 <!--
+
+
 
 **Here are some ideas to get you started:**
 
